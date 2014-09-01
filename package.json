@@ -1,0 +1,29 @@
+{
+  "name": "gatewayd-express",
+  "version": "0.1.0",
+  "description": "HTTP Interface to gatewayd",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatewayd/gatewayd-express"
+  },
+  "keywords": [
+    "gateway",
+    "ripple",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gatewayd/gatewayd-express/issues"
+  },
+  "homepage": "https://github.com/gatewayd/gatewayd-express",
+  "dependencies": {
+    "passport": "^0.2.1",
+    "body-parser": "^1.6.7",
+    "express": "^4.8.7"
+  }
+}
